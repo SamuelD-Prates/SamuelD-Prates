@@ -14,7 +14,7 @@
 
 ###
 
-I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Furthermore, i am a member of a pharmogenetics startup.
+I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Moreover, i am a member of a pharmogenetics startup.
 
 ###
 
@@ -26,7 +26,6 @@ I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Current
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamuelD-Prates&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=SamuelD-Prates&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
