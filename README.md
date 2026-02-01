@@ -14,11 +14,20 @@
 
 ###
 
->I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Furthermore, i am a member of a pharmogenetics startup.
+I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Furthermore, i am a member of a pharmogenetics startup.
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamuelD-Prates&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SamuelD-Prates&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelD-Prates&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SamuelD-Prates&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SamuelD-Prates&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
