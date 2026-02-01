@@ -1,12 +1,12 @@
-<h1 align="center">Hey there! My name is Samuel Prates dos Santos</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Rio_de_Janeiro_banner_1.jpg"  />
 </div>
+
+###
+
+<h1 align="center">Hey there! My name is Samuel Prates dos Santos</h1>
 
 ###
 
