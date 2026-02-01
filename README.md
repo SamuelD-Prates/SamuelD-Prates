@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Furthermore, i am a member of a pharmogenetics startup.</p>
+>I'm a Computer Systems student at Universidade Federal Fluminense (UFF). Currently, i'm a researcher at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at [INCA](https://www.gov.br/inca/pt-br), where i analyze breast cancer data. Furthermore, i am a member of a pharmogenetics startup.
 
 ###
 
