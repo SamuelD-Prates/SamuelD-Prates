@@ -14,7 +14,7 @@
 
 ###
 
-I'm a Computer Systems student, specializing in **data analysis** at Universidade Federal Fluminense (UFF). Currently, I'm a **researcher** at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at **[INCA](https://www.gov.br/inca/pt-br)**, where I analyze breast cancer data. Moreover, I am a member of a **pharmacogenetics** startup.
+I'm a Computer Systems student, specializing in **data analysis** at Universidade Federal Fluminense (UFF). Currently, I'm a **researcher** at the [Laboratory of Oncology Epigenomics](https://github.com/Laboratory-of-Oncology-Epigenomics) at **[INCA](https://www.gov.br/inca/pt-br)**, where I analyze breast cancer data. Moreover, I am a member of a **pharmacogenetics** startup. The languages i know are HTML, CSS, javascript and i'm currently learning R. 
 
 ###
 
@@ -27,27 +27,6 @@ I'm a Computer Systems student, specializing in **data analysis** at Universidad
 ![](https://github-profile-trophy.vercel.app/?username=SamuelD-Prates&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=SamuelD-Prates&icon=0&color=0)](https://visitcount.itsvg.in)
-
-###
-
-<h1 align="left">Languages and Tools</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" height="30" alt="rstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-</div>
 
 ###
 
